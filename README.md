@@ -18,12 +18,12 @@ print("Hey, I'm Arush 👋")
 
 I'm based in Melbourne and studying Software Engineering at RMIT and Computer Science at BITS Goa. I enjoy working across backend engineering and applied machine learning—especially the part where an experiment has to become a reliable, testable piece of software.
 
-Right now, I'm learning more about:
+Right now, I'm focused on learning more about:
 
-- computer vision, transfer learning, and honest model evaluation
-- serving ML models with ONNX Runtime and FastAPI
-- API design, automated testing, and deployment constraints
-- building useful automations around real APIs and scheduled workflows
+- Transformer architecture—embeddings, self-attention, positional encoding, and how the pieces work together
+- working with pretrained language models in PyTorch and Hugging Face, beyond treating them as black boxes
+- ML for software testing, including test generation, mutation testing, code coverage, and models such as AsserT5
+- strengthening my deep-learning foundations through practical computer-vision experiments and careful model evaluation
 
 ## What I'm building
 
